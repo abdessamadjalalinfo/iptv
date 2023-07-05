@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Chain App Dev - App Landing Page HTML5 Template</title>
+    <title>IPTV-VIP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@ https://templatemo.com/tm-570-chain-app-dev
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a  style="width:100px" href="index.html" class="logo">
+            <a  style="width:100px" href="/" class="logo">
               <img src="logo.png" alt="Chain App Dev">
             </a>
             <!-- ***** Logo End ***** -->
@@ -275,7 +275,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a href="#"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://sowl.co/bqhh4Q"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
@@ -296,7 +296,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a href="#"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://sowl.co/uha3x"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
@@ -317,7 +317,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li >24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a href="#">Order Now</a>
+              <a target="_blank" href="https://sowl.co/7xKic">Order Now</a>
             </div>
           </div>
         </div>
@@ -338,7 +338,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a href="#"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://sowl.co/bmUyvc"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
@@ -358,6 +358,7 @@ https://templatemo.com/tm-570-chain-app-dev
           </div>
         </div>
       </div>
+      <img src="carte.png" alt="">
     </div>
     <div class="container">
       <div class="row">
@@ -450,24 +451,25 @@ https://templatemo.com/tm-570-chain-app-dev
             <h4>Contact Us</h4>
             <p>Rio de Janeiro - RJ, 22795-008, Brazil</p>
             <p><a href="#">010-020-0340</a></p>
-            <p><a href="#">info@company.co</a></p>
+            <p><a href="#">admin@iptv-vip.pro</a></p>
           </div>
         </div>
        
       
         <div class="col-lg-3">
           <div class="footer-widget">
-            <h4>About Our Company</h4>
+            <h4>About IPTV-VIP</h4>
             <div class="logo">
               <img src="logo.png" alt="">
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+            <p>
+              We appreciate your interest in learning more about our company. At IPTV-VIP, we offer an exceptional IPTV streaming service that is accessible globally with instant activation and free installation. Our commitment to providing reliable service is backed by our dedicated technical team, who ensure that our clients receive the highest quality streaming experience possible.            </p>
           </div>
         </div>
         <div class="col-lg-12">
           <div class="copyright-text">
-            <p>Copyright © 2023 Chain App Dev Company. All Rights Reserved. 
-          <br>Design: <a href="https://templatemo.com/" target="_blank" title="css templates">TemplateMo</a></p>
+            <p>Copyright © 2023 IPTV-VIP. All Rights Reserved. 
+      </p>
           </div>
         </div>
       </div>
