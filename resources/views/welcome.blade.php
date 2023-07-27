@@ -275,7 +275,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a target="_blank" href="https://sowl.co/bqhh4Q"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://shoppy.gg/product/1MbARZS"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
@@ -296,7 +296,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a target="_blank" href="https://sowl.co/uha3x"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://shoppy.gg/product/1MbARZS"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
@@ -317,7 +317,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li >24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a target="_blank" href="https://sowl.co/7xKic">Order Now</a>
+              <a target="_blank" href="https://shoppy.gg/product/e6IFUlD">Order Now</a>
             </div>
           </div>
         </div>
@@ -338,7 +338,7 @@ https://templatemo.com/tm-570-chain-app-dev
               <li ><i class="fa-sharp fa-solid fa-headset"></i>24/7 Support</li>
             </ul>
             <div class="border-button">
-              <a target="_blank" href="https://sowl.co/bmUyvc"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
+              <a target="_blank" href="https://shoppy.gg/product/e6IFUlD"><i class="fa-solid fa-cart-shopping"></i>Order Now</a>
             </div>
           </div>
         </div>
